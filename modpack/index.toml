@@ -16,6 +16,11 @@ hash = "9bfcddbe86cca4439bfbb1a42bfacacb4d1e1848e0d679f94f5df622a5bd1fa6"
 metafile = true
 
 [[files]]
+file = "mods/codechickenlib-1-8-9.pw.toml"
+hash = "35abf80326b2f6d30f6387b7be5303c5abb5b840bb11c91cc8541766d31f5a8e"
+metafile = true
+
+[[files]]
 file = "mods/dummycore.pw.toml"
 hash = "00b23a55d6b02371b16b6d8bb7686149afd6b6e52ca021a55bee15706180a5cf"
 metafile = true
