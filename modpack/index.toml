@@ -71,11 +71,6 @@ hash = "18c25506df81b27176ff6bb37a1780e844e0af56333898c2c1d10bc910db0522"
 metafile = true
 
 [[files]]
-file = "mods/thaumic-additions.pw.toml"
-hash = "d0276701717e5d6d6fa627f23974271dc8cbba75bee20df8d8da631c8fd103d3"
-metafile = true
-
-[[files]]
 file = "mods/thaumic-bases.pw.toml"
 hash = "b08423c08d40da3d53217100a21c9b98ff6c36c8e1086c95241935d5e88811a2"
 metafile = true
