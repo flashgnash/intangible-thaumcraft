@@ -1,0 +1,13 @@
+name = "Ray Trace Library"
+filename = "RayTraceLib_1.8.9-0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "25e6fbf66c561cb87d39dc7342aa7241fa4f7be5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2281159
+project-id = 241689

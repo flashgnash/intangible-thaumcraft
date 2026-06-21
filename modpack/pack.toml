@@ -1,0 +1,13 @@
+name = "intangible-thaumcraft"
+author = "flashgnash"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5768d6be69972e99e0ea4eee97a3df753bfe34238929331fbcb34439307a488c"
+
+[versions]
+forge = "11.15.1.2318"
+minecraft = "1.8.9"

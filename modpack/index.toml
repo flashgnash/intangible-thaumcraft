@@ -1,0 +1,96 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/baubles.pw.toml"
+hash = "6cfa345348f71b26e7b49c58ce806c2b6f2e6b2d738860903a590effb394b41d"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "1ce6662d2fc52b365d39b213370118cc3045b49544f3a86082b71e243b7db6c5"
+metafile = true
+
+[[files]]
+file = "mods/chisel.pw.toml"
+hash = "9bfcddbe86cca4439bfbb1a42bfacacb4d1e1848e0d679f94f5df622a5bd1fa6"
+metafile = true
+
+[[files]]
+file = "mods/dummycore.pw.toml"
+hash = "00b23a55d6b02371b16b6d8bb7686149afd6b6e52ca021a55bee15706180a5cf"
+metafile = true
+
+[[files]]
+file = "mods/intangible.pw.toml"
+hash = "99bef13c604f1649254d2608a1b300252c46730ea0e2f4093203085877add93d"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "1be5739c8050bc943ecfa211a384661acb115fd387151220ccaf4a8b8aa98498"
+metafile = true
+
+[[files]]
+file = "mods/jeiaddons.pw.toml"
+hash = "8b7f5e787284814ab1cc95d8e7cb3c66754565e685ccddd2418ec39b86e1d22a"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "9020b506c8b7f5bbb9c0b378cdb4c5012043818ae52ed4798ab010752431fed9"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "94e0384b0f461bd7e767cbf94598d308595ce1060465838fdbc0709f8bd2bd53"
+metafile = true
+
+[[files]]
+file = "mods/mantle.pw.toml"
+hash = "b6629847e58e20d55a244345301095dca195ac54ade6071e3f54d74e4d44a4af"
+metafile = true
+
+[[files]]
+file = "mods/random-things.pw.toml"
+hash = "4e271fe8d490e5099d7df591dd15e86d5da5a12bea955d9ebeaf78a6a01e8108"
+metafile = true
+
+[[files]]
+file = "mods/ray-trace-library.pw.toml"
+hash = "c6f995c897bbe223deb6b2778d8d965d05a85bb7ebb757df37674b12839fa71e"
+metafile = true
+
+[[files]]
+file = "mods/thaumcraft.pw.toml"
+hash = "18c25506df81b27176ff6bb37a1780e844e0af56333898c2c1d10bc910db0522"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-additions.pw.toml"
+hash = "d0276701717e5d6d6fa627f23974271dc8cbba75bee20df8d8da631c8fd103d3"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-bases.pw.toml"
+hash = "b08423c08d40da3d53217100a21c9b98ff6c36c8e1086c95241935d5e88811a2"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-tinkerer.pw.toml"
+hash = "2a62cc39abd35d7f578f92dbf5e54186010970405e4103533ce551e54d761de0"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-addons.pw.toml"
+hash = "8316350734ced512f4a9c1d5c8728f9ce4f1e258da4ef59ae4c77bdb2ae73797"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "49baa36a33bac6479998133c3b00fb7b4f885365e6c3d243aa926282a58785de"
+metafile = true
+
+[[files]]
+file = "mods/waila.pw.toml"
+hash = "ba4f316f99a5abc27471453fcebdf8dbcd128dbeaeb6ff95f616b3d851461d65"
+metafile = true

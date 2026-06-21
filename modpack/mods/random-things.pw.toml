@@ -1,0 +1,13 @@
+name = "Random Things"
+filename = "RandomThings-MC1.8.9-3.6.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "605d79b1d4d79844d381b65588fde4ca7fd59f3b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2287348
+project-id = 59816
