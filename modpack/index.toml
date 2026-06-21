@@ -27,22 +27,22 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "1be5739c8050bc943ecfa211a384661acb115fd387151220ccaf4a8b8aa98498"
+hash = "1ea217e976edab1d607e622688c559761c8bf067cf32465cab5730197c566406"
 metafile = true
 
 [[files]]
 file = "mods/jeiaddons.pw.toml"
-hash = "8b7f5e787284814ab1cc95d8e7cb3c66754565e685ccddd2418ec39b86e1d22a"
+hash = "0ef9b5869ca48a2205139bfc56d40d50ef592bffe6c8d4a1f31e666e60b9d053"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "9020b506c8b7f5bbb9c0b378cdb4c5012043818ae52ed4798ab010752431fed9"
+hash = "19bb567d01cdf2c2b1b7cb7ee647703dfbda07b7c98af86d86a68f730f0eaaf2"
 metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "94e0384b0f461bd7e767cbf94598d308595ce1060465838fdbc0709f8bd2bd53"
+hash = "78e90e8eedc7aee342c2104b54dffd3cc826a43a2f7a095982e60ff3c3c5d99d"
 metafile = true
 
 [[files]]
@@ -92,5 +92,5 @@ metafile = true
 
 [[files]]
 file = "mods/waila.pw.toml"
-hash = "ba4f316f99a5abc27471453fcebdf8dbcd128dbeaeb6ff95f616b3d851461d65"
+hash = "e5f6594c7f08d7fd283372ce97d3a8d161e6bfbecf730b6f1b79ebabf33e7627"
 metafile = true

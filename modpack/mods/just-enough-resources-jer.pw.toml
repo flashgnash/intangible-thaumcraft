@@ -1,6 +1,6 @@
 name = "Just Enough Resources (JER)"
 filename = "JustEnoughResources-1.8.9-0.4.0.23.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
