@@ -1,0 +1,13 @@
+name = "Redstone Paste"
+filename = "redstonepaste-mc1.8.8-1.7.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0f4e7f5ea282300433a04904bedb9d7c3977bb27"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2274679
+project-id = 67508

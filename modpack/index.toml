@@ -66,6 +66,11 @@ hash = "c6f995c897bbe223deb6b2778d8d965d05a85bb7ebb757df37674b12839fa71e"
 metafile = true
 
 [[files]]
+file = "mods/redstone-paste.pw.toml"
+hash = "32542618bc8fb95ef676e761811080805db8bf448ebb0994077c79d165bddda6"
+metafile = true
+
+[[files]]
 file = "mods/thaumcraft.pw.toml"
 hash = "18c25506df81b27176ff6bb37a1780e844e0af56333898c2c1d10bc910db0522"
 metafile = true
